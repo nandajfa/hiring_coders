@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,100&display=swap" rel="stylesheet">
+
+	<title>Portifólio</title>
+</head>
+<body>
+	<header>
+		<div>
+			<img src="./img/logo.png" width="30%"/><br/>
+		</div>
+		<ul>
+			<li><a target="_blank" href="https://github.com/nandajfa" >Github</a></li>
+			<li><a target="_blank" href="mailto:nanda.jfa@gmail.com" >Email</a></li>
+			<li><a target="_blank" href="https://wa.me/11981974890" >Whatsapp</a></li>
+		</ul>
+	</header>
+
+	<main>
+		<section class="container">
+			<div id="nome">
+				<h1>Jessica Fernanda</h1>
+				<h5>Front-End Developer</h5>
+			</div>
+
+			<div onclick="displayAbout()" id="arrow">
+				<i id="animation" class="fa-solid fa-caret-down"></i>
+			</div>
+
+			<div style="display: none;" id="about">
+				<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam dolore blanditiis sapiente nulla itaque dolorum cum earum neque minus, fugiat beatae eius porro asperiores fugit!</p>
+			</div>
+
+			<div class="tema">
+				<p>Projetos realizados</p>
+			</div>
+
+			<div class="flex">
+
+
+					<div>
+						<a target="_blank" href="https://github.com/nandajfa/Desafio-final-Cappacita-" ><img src="./img/cap.png" alt=""></a>
+						<p>MovieTime é uma aplicação construída como projeto final do curso CAPPACITA DEV, capacitação profissional em tecnologia - IA. A aplicação consiste em criar uma interface gráfica que apresente pelo menos uma lista de filmes ou séries, chamando serviços do TMDb. (Uma base de dados gratuita e de código aberto sobre filmes e séries de TV). </p>
+					</div>
+					<div>
+						<a target="_blank" href="https://pomodoro-n.netlify.app/" ><img src="./img/pomo.png" alt=""></a>
+						<p>Cronômetro pomodoro. A técnica pomodoro é um método de gerenciameno de tempo que consiste na utilização de um cronômetro para dividir nosso trabalho em períodos de 25 minutos separados por breves intervalos. Aplicação Front-end utilizando as tecnologias : HTML / CSS / JS / Bootstrap. </p>
+					</div>
+					<div>
+						<a target="_blank" href="https://github.com/nandajfa/so_long" ><img src="./img/sol.png" alt=""></a>
+						<p>Mini jogo So-long. Projeto com interface gráfica, realizado com a linguagem C e biblioteca Minilibx, uma biblioteca de projetos visuais. </p>
+					</div>
+
+
+			</div>
+
+
+			<div class="form">
+				<div>
+					<p>Deixe seu contato!</p>
+				</div>
+				<form action="">
+					<input type="text" placeholder="Seu melhor email :)">
+					<button>Enviar</button>
+				</form>
+			</div>
+
+		</section>
+	</main>
+
+</body>
+
+	<script>
+		function displayAbout() {
+			var arrow = document.getElementById('animation');
+			arrow.classList.toggle('rotate');
+			var display = document.getElementById('about');
+			display.classList.toggle('active');
+		}
+	</script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
+
+</html>
