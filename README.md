@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./.github/HC-hands-up.png">
+    <img src="./img/baixados.jpg">
     <h2 align="center"> Hiring Coders #3 </h2>
 </p>
 
