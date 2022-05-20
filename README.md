@@ -23,7 +23,7 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 - Participação do Hackathon envolendo equipes e dinâmicas em grupos.
 
-<h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
+<h2> <img width="24px" src="./img/notion.svg"> &nbspAnotações  </h2>
 
 ### **Aquecimento**
 
