@@ -1,6 +1,6 @@
 import { createServer } from 'http';
-import { readFile } from 'fs';
-import { resolve } from 'path';
+
+import { parse } from 'querystring'
 
 const server = createServer((request, response) => {
 	switch (request.url) {
@@ -18,23 +18,20 @@ const server = createServer((request, response) => {
 			response.end();
 			break;
 		}
-		case '/sign-in':{
-			const path = resolve(__dirname, './pages/sign-in.html')
-			readFile(path, (error, file) => {
-				if (error) {
-					response.writeHead(500, 'Can\'t process HTML file.');
-					response.end();
-					return;
-				}
-				response.writeHead(200);
-				response.write(file);
+
+		case '/authenticate': {
+			let data = '';
+			request.on('data', (chunk) => {
+				data += chunk;
+			});
+			request.on('end', () => {
+				const params = parse(data);
+
 				response.end();
 			})
 			break;
 		}
-		case '/authenticate': {
-			break;
-		}
+
 		default: {
 			response.writeHead(404, 'Service not found');
 			response.end();
