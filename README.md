@@ -23,6 +23,18 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 - Participação do Hackathon envolendo equipes e dinâmicas em grupos.
 
+## 🧪 Tecnologias
+
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&color=ff7f00&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=2C9BD2&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=EAD41C&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white) <br>
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&color=1C1C1C)
+![Styled Components](https://img.shields.io/badge/-Styled%20components-05122A?style=for-the-badge&logo=styled-components&color=1f1f1f)
+![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-graphql-05122A?style=for-the-badge&logo=graphql&color=1f1f1f&logoColor=e535ab)
+
+
 <h2> <img width="24px" src="./img/notion.svg"> &nbspAnotações  </h2>
 
 ### **Aquecimento**
@@ -54,7 +66,7 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [React intermediário ](https://github.com/nandajfa/hiring_coders/tree/main/react/gamagit) |  ✅ | - Boas práticas <br> - Salvando dados no storage <br> - React router dom <br> - Renderizando repositórios <br> - Tratamento de erros e UseHistory <br> - Conditional Rendering |
 | [ GraphQL ](https://github.com/nandajfa/hiring_coders/tree/main/graphQL/client-server-example) |  ✅ | - Monorepo <br> - Requisição assíncrona <br> - Cors <br> - APisRESTful <br> - Apollo Server <br> - TypeDefs e Resolvers <br> - Query <br> - Mutation <br> - Apollo link <br> - Hook |
 | **📅 Semana 4** |  **🤔 Status**   |  **📦 Tópicos** |
-| [ Introdução ao Node ](./1-Internet.md) |  ✅ | - Fundamentos <br> - Gerenciamento de pacotes <br> - Npm <br> - Javascript <br> - Typescript  |
+| [ Introdução ao Node ](https://github.com/nandajfa/hiring_coders/tree/main/node) |  ✅ | - Fundamentos <br> - Gerenciamento de pacotes <br> - Npm <br> - Javascript <br> - Typescript  |
 | **📅 Semana 5** |  **🤔 Status**   |  **📦 Tópicos** |
 | [ Node.JS - HTTP GET e HTTP POST ](./1-Internet.md) |  ✅ | - REST E SOAP <br> - Nodemon <br> - Docker <br> - ElephantSQL e PostBird <br> - ORM  |
 | **📅 Semana 6** |  **🤔 Status**   |  **📦 Tópicos** |
@@ -73,6 +85,13 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [Mentoria 2 - 06/05](https://www.youtube.com/watch?v=HejxKobIhSg&ab_channel=HiringCoders) |  ✅   |  Atributos input e label <br> Bootstrap e Responsividade <br> Git e Github <br> Versionamento de Código|
 | [Mentoria 3 - 11/05](https://www.youtube.com/watch?v=R-dq9QHu91A&ab_channel=HiringCoders) |  ✅   | Introdução ao JavaScript <br> Função no JavaScript <br> Validação de formulário com JavaScript <br> Manipulação da DOM <br> Configurando o Git <br> Subindo o primeiro repositório <br> Primeiro Commit |
 | [Mentoria 4 - 13/05](https://www.youtube.com/watch?v=S13f3RJIGkc&ab_channel=HiringCoders) |  ✅   | Usando a tag `<script>` <br> Estruturas de Repetição <br> Manipulação da DOM (`innerHTML, querySelector, textContent`)  <br> Object Date (` new Date, getHours...`) <br> Funções assíncronas (`SetInterval`) <br> Instalando o NodeJS <br> Rodando arquivo JS com o Node (`node Arquivo.js`)|
+| [Mentoria 5 - 25/05](https://www.youtube.com/watch?v=MUWtNgd9qNg&t=2783s) |  ✅   | - Laços de repetição <br> - Case com javascript <br> - Classes |
+| [Mentoria 6 - 27/05](https://www.youtube.com/watch?v=znm4oYRoqF4) |  ✅   | Classes <br> Inserir dados na página e gravar dados <br> Node |
+| [Mentoria 7 - 28/05](https://www.youtube.com/watch?v=znm4oYRoqF4) |  ✅   | -- |
+| [Mentoria 8 - 01/06](https://www.youtube.com/watch?v=Q_os6krRg8I) |  ✅   | -- |
+| [Mentoria 9 - 03/06](https://www.youtube.com/watch?v=OWVk96GZ2-0) |  ✅   | -- |
+| [Mentoria 10 - 08/06](https://www.youtube.com/watch?v=zmPX3oYBWqc) |  ✅   | -- |
+| [Mentoria 11 - 10/06](https://www.youtube.com/watch?v=4ZrMgWN55K0&t=1s) |  ✅   | -- |
 
 
 ---
