@@ -73,8 +73,8 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [ Node.JS - Criando uma REST API ](./1-Internet.md) |  ✅ | - Recursos: coleção, elemento e sub-elemento <br> - Endpoints <br> - Métodos REST <br> - Versionamento de API <br> - Versionamento de API <br> - DX <br> - Swagger <br> - Express <br> - Postman <br> - Segurança |
 | [ Consumo de API terceiras ](./1-Internet.md) |  ✅ | -Consumo de Api terceiras <br> - Integração <br> - Node-Fetch <br> - Axios |
 | **📅 Semana 7** |  **🤔 Status**   |  **📦 Tópicos** |
-| [ NEXT.JS ](./1-Internet.md) |  ✅ | - Introdução |
-| [ GATSBY.JS ](./1-Internet.md) |  ✅ | - Introdução |
+| [ NEXT.JS ](./1-Internet.md) |  ✅ | - Introdução <br> - Fundamentos <br> - Componentes <br> - SSR <br> - Rotas e funções <br> |
+| [ GATSBY.JS ](./1-Internet.md) |  ✅ | - Fundamentos <br> - SSG <br> - Roteamento <br> - Componentes e funções |
 
 
 ### **Mentoria**
@@ -92,6 +92,8 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [Mentoria 9 - 03/06](https://www.youtube.com/watch?v=OWVk96GZ2-0) |  ✅   | -- |
 | [Mentoria 10 - 08/06](https://www.youtube.com/watch?v=zmPX3oYBWqc) |  ✅   | -- |
 | [Mentoria 11 - 10/06](https://www.youtube.com/watch?v=4ZrMgWN55K0&t=1s) |  ✅   | -- |
+| [Checkpoint Live - 21/06](https://www.youtube.com/watch?v=-2zAI3oWZgA) |  ✅   | Protagonismo na carreira |
+| [Mentoria 12 - 22/06](https://www.youtube.com/watch?v=2OAG_v_tYQY&t=10s) |  ✅   | -- |
 
 
 ---
